@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @meesgoudbeek
-- 👀 I’m interested in Front-end development
-- 🌱 I’m currently learning ReactJS
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Full-stack development
+- 🌱 I’m currently learning NextJS, Note-taking and back-end technologies
 
 <!---
 meesgoudbeek/meesgoudbeek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
